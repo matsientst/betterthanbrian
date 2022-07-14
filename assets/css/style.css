@@ -497,7 +497,7 @@ video { min-width: 100% }
 }
 .description_text p { text-align: justify }
 .mbottom40 { margin-bottom: 30px }
-.description_text a {
+.description_text a.btn {
     background: #3d97e4 none repeat scroll 0 0;
     border: 1px solid #3d97e4;
     border-radius: 0;
@@ -509,6 +509,9 @@ video { min-width: 100% }
             transition: all 0.2s ease 0s;
 }
 .description_text a:hover {
+    color: #03a9fa;
+}
+.description_text a.btn:hover {
     background: #333;
     color: #fff;
 }

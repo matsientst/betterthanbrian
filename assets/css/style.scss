@@ -1972,10 +1972,18 @@ blockquote {
 	margin-right: 20px;
 	border: 1px solid black;
 }
-.about-img {
-	text-align: right;
 
+#Why .about-img {
+	text-align: right;
 	img {
 		max-height: 500px;	
+	}
+}
+
+
+#Who .about-img {
+	text-align: left;
+	img {
+		max-height: 700px;	
 	}
 }

@@ -4,7 +4,7 @@ title: "My secret admission - I've been building applications wrong..."
 date: 2019-04-08 15:12:09 +0600
 tags: event-sourcing
 categories: [event-sourcing]
-author: matt_macchia
+authors: matt_macchia
 post_image: "/assets/img/blog/03.jpg"
 ---
 

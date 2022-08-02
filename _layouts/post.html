@@ -34,9 +34,15 @@ layout: default
                         <img src="{{page.post_image}}" alt="{{page.title}}"/>
                     </div>
                     <div class="blog-content">
-                       {{content}}
+                       {{content}} 
                         <div class="row mt-30">
                             <div class="col-xl-6 col-lg-6 col-md-6">
+                                <!-- Look the author details up from the site config. -->
+                                {% for author in site.authors %}
+                                    {% if page.authors contains author.username or author.username == page.authors %}
+                                        <a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
+                                    {% endif %}
+                                {% endfor %}
                                 <!-- 
                                     // NOT RENDERING RIGHT IN PROD
                                     <div class="blog-post-tag">

@@ -35,10 +35,28 @@ cover_image: "/assets/img/bg/page-title.jpg"
 
 #collections
 collections:
+  authors:
+    output: true
+    permalink: author/:title/
   features:
     output: true
   services:
     output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      author: matt_macchia
+
 
 ########################################################
 # Site configuration for the Jekyll 3 Pagination Gem

@@ -4,7 +4,7 @@ title: "Dewdrop - A Java based Event Sourcing platform released"
 date: 2022-07-19 20:37:13 -0600
 tags: event-sourcing dewdrop java
 categories: [dewdrop]
-author: "matt_macchia"
+authors: matt_macchia
 post_image: "/assets/img/blog/01.jpg"
 ---
 

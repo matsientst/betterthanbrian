@@ -1972,3 +1972,10 @@ blockquote {
 	margin-right: 20px;
 	border: 1px solid black;
 }
+.about-img {
+	text-align: right;
+
+	img {
+		max-height: 500px;	
+	}
+}

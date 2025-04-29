@@ -1,15 +1,15 @@
 ---
 layout: featured
-title: Great Ideas
-icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/services/02.jpg
-description: Chances are we have seen your issues before and have great ideas for simple solutions to solve your problems.
+title: Copywriting and SEO optimization
+icon: /assets/img/icons/droplet-solid.svg
+image: /assets/img/services/05.jpg
+description: Did Brian ever rank you on Google? Leave the vodoo to us. 
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Condimentum consectetur quaerat parturient denouncing</h3>
+            <h3>Dedicated support quaerat parturient denouncing</h3>
             <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
                 dolore mage aliquami erat volpate Ut wisi
                 enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
@@ -21,7 +21,7 @@ description: Chances are we have seen your issues before and have great ideas fo
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/1.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/5.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

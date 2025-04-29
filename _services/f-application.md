@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Development
-icon: /assets/img/icons/air-freshener-solid.svg
+title: Application Development
+icon: /assets/img/icons/american-sign-language-interpreting-solid.svg
 image: /assets/img/services/03.jpg
-description: Do you need a team to hit the ground and just get it done? We're ready to roll up our sleeves and get the job done. 
+description: Do you need more in depth application development? Help with your great app idea! We're here to help.
 ---
 
 <div class="row">
@@ -21,7 +21,7 @@ description: Do you need a team to hit the ground and just get it done? We're re
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/4.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/3.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

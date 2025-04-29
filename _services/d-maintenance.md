@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Dewdrop Support
-icon: /assets/img/icons/droplet-solid.svg
-image: /assets/img/services/05.jpg
-description: Do you need support to get up and running Dewdrop. The Event Sourcing framework for Java. Let us help your team push Dewdrop to the limit.
+title: Maintenance and updates
+icon: /assets/img/icons/ambulance-solid.svg
+image: /assets/img/services/02.jpg
+description: Your time is better spent on your business, not on your website. We'll handle the heavy lifting.
 ---
 
 <div class="row">
@@ -21,7 +21,7 @@ description: Do you need support to get up and running Dewdrop. The Event Sourci
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/5.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/2.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

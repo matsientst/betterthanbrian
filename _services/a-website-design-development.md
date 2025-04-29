@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Architecture
+title: Custom Website Design and Development
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
-description: Leave complex domain driven development to our expert team. Worry more about high-level strategy.
+description: Leave website development to our expert team. Worry more about running your business.
 ---
 
 <div class="row">

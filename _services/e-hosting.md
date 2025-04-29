@@ -1,15 +1,15 @@
 ---
 layout: featured
-title: Training
-icon: /assets/img/icons/ambulance-solid.svg
-image: /assets/img/services/03.jpg
-description: Do you need someone to come in and dive deep on the the basics of event sourcing? We can provide the training to get your team ready.
+title: Hosting & domain setup
+icon: /assets/img/icons/algolia-brands.svg
+image: /assets/img/services/02.jpg
+description: Are you unsure of what the difference between an MX or NS record is? Let us handle it.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Dedicated support quaerat parturient denouncing</h3>
+            <h3>Condimentum consectetur quaerat parturient denouncing</h3>
             <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
                 dolore mage aliquami erat volpate Ut wisi
                 enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
@@ -21,7 +21,7 @@ description: Do you need someone to come in and dive deep on the the basics of e
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/3.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/1.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

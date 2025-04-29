@@ -4,7 +4,7 @@ username: matt_macchia
 name: Matt Macchia
 title: Matt Macchia
 image: /assets/img/authors/matt-macchia.jpg
-bio: Hands on tech leader, quickly builds and leads teams from idea to launch - focusing on Event Sourcing, DDD and CQRS.   
+bio: Hands on tech leader, quickly builds and leads teams from idea to launch.   
 ---
 
  <div class="row">

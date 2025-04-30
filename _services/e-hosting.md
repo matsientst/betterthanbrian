@@ -3,7 +3,7 @@ layout: featured
 title: Content Writing That Doesn’t Put People to Sleep
 icon: /assets/img/icons/algolia-brands.svg
 image: /assets/img/services/02.jpg
-description: No robotic ‘We leverage synergistic paradigms’ here — just clear, engaging copy that sells.
+description: No robotic ‘We leverage synergistic paradigms’ here &dash; just clear, engaging copy that sells.
 ---
 
 <div class="row">

@@ -3,7 +3,7 @@ layout: featured
 title: Custom Web Design (No Template Nonsense)
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
-description: We don’t just drag and drop—we build sites that actually impress your customers (and your mom). Perfect if you’ve outgrown Squarespace or Wix.
+description: We don’t just drag and drop &dash; we build sites that actually impress your customers (and your mom). Perfect if you’ve outgrown Squarespace or Wix.
 ---
 
 <div class="row">

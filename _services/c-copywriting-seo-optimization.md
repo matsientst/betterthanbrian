@@ -3,7 +3,7 @@ layout: featured
 title: Brand Identity That Doesn’t Look Like a Canva Explosion
 icon: /assets/img/icons/droplet-solid.svg
 image: /assets/img/services/05.jpg
-description: Logos, colors, fonts—we’ll make your brand look legit (not like it was designed by a intern named Brian).
+description: Logos, colors, fonts &dash; we’ll make your brand look legit (not like it was designed by a intern named Brian).
 ---
 
 <div class="row">

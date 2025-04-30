@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Branding and logo creation
+title: Brand Identity & Logo Creation
 icon: /assets/img/icons/air-freshener-solid.svg
 image: /assets/img/services/03.jpg
-description: Let us help you create your brand strategy and amazing logo for use throughout your business
+description: Cohesive visuals that tell your story at a glance.
 ---
 
 <div class="row">

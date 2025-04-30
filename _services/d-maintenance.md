@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Maintenance and updates
+title: Digital Advertising
 icon: /assets/img/icons/ambulance-solid.svg
 image: /assets/img/services/02.jpg
-description: Your time is better spent on your business, not on your website. We'll handle the heavy lifting.
+description: Targeted campaigns that convert clicks into customers.
 ---
 
 <div class="row">

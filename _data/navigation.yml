@@ -16,8 +16,6 @@
   # url: /pages/about
 - text: Blog
   url: /pages/blog
-- text: Dewdrop
-  url: https://dewdrop.events
 # - text: Pages
 #   url: /
 #   submenu:

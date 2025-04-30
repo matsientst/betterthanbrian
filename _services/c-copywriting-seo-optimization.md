@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Copywriting and SEO optimization
+title: Content Writing & SEO Optimization
 icon: /assets/img/icons/droplet-solid.svg
 image: /assets/img/services/05.jpg
-description: Did Brian ever rank you on Google? Leave the vodoo to us. 
+description: Compelling copy that ranks and resonates.
 ---
 
 <div class="row">

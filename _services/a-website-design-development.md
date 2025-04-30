@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Custom Website Design and Development
+title: Custom Website Design & Development
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
-description: Leave website development to our expert team. Worry more about running your business.
+description: Tailored sites that reflect your brand and engage your audience.
 ---
 
 <div class="row">

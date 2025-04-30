@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Hosting & domain setup
+title: Application Development
 icon: /assets/img/icons/algolia-brands.svg
 image: /assets/img/services/02.jpg
-description: Are you unsure of what the difference between an MX or NS record is? Let us handle it.
+description: From concept to code, we build apps that solve problems.
 ---
 
 <div class="row">

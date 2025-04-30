@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Application Development
+title: Maintenance & Hosting
 icon: /assets/img/icons/american-sign-language-interpreting-solid.svg
 image: /assets/img/services/03.jpg
-description: Do you need more in depth application development? Help with your great app idea! We're here to help.
+description: Reliable support that keeps your site running smoothly.
 ---
 
 <div class="row">

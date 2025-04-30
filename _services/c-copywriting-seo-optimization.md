@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Content Writing & SEO Optimization
+title: Brand Identity That Doesn’t Look Like a Canva Explosion
 icon: /assets/img/icons/droplet-solid.svg
 image: /assets/img/services/05.jpg
-description: Compelling copy that ranks and resonates.
+description: Logos, colors, fonts—we’ll make your brand look legit (not like it was designed by a intern named Brian).
 ---
 
 <div class="row">

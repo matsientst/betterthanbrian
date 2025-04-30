@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Brand Identity & Logo Creation
+title: Web Development That Doesn’t Break
 icon: /assets/img/icons/air-freshener-solid.svg
 image: /assets/img/services/03.jpg
-description: Cohesive visuals that tell your story at a glance.
+description: Clean code, fast load times, and an actual response to your ‘Hey, can you fix this?’ email. We handle everything from simple sites to complex web apps.
 ---
 
 <div class="row">

@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Custom Website Design & Development
+title: Custom Web Design (No Template Nonsense)
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
-description: Tailored sites that reflect your brand and engage your audience.
+description: We don’t just drag and drop—we build sites that actually impress your customers (and your mom). Perfect if you’ve outgrown Squarespace or Wix.
 ---
 
 <div class="row">

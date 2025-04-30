@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Maintenance & Hosting
+title: Custom Apps (Because Off-the-Shelf Usually Sucks)
 icon: /assets/img/icons/american-sign-language-interpreting-solid.svg
 image: /assets/img/services/03.jpg
-description: Reliable support that keeps your site running smoothly.
+description: Need something built just for your business? We code it right the first time (unlike Brian’s ‘quick fix’ that broke everything).
 ---
 
 <div class="row">

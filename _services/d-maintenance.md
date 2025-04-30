@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Digital Advertising
+title: Digital Ads That Don’t Flop
 icon: /assets/img/icons/ambulance-solid.svg
 image: /assets/img/services/02.jpg
-description: Targeted campaigns that convert clicks into customers.
+description: Stop throwing money at Facebook ads that only reach your ex. We’ll target real customers who actually buy stuff.
 ---
 
 <div class="row">

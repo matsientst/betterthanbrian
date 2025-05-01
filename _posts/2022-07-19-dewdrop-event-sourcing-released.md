@@ -6,6 +6,7 @@ tags: event-sourcing dewdrop java
 categories: [dewdrop]
 authors: matt_macchia
 post_image: "/assets/img/blog/01.jpg"
+header_image: "/assets/img/bg/bus.png"
 ---
 
 <h4>If you build it they will come! </h4> 

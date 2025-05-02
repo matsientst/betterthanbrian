@@ -34,4 +34,4 @@
 #   - text: 404
 #     url: /pages/404
 - text: Contact
-  url: /#Footer
+  url: /contact

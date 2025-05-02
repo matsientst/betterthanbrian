@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 permalink: /contact/
-
 title: "Contact Us"
 post_image: "/assets/img/bg/contact.png"
 ---
@@ -26,3 +25,14 @@ We’re not a faceless corporation. We’re not your nephew Brian. We’re a sma
 
 
 {% include contact-form.html %}
+
+---
+
+### **Other Ways to Get Our Attention**
+- **Email:** [info@betterthanbrian.com](mailto:info@betterthanbrian.com)  
+- **LinkedIn:** [Connect](https://linkedin.com/company/better-than-brian)  
+- **Fax:** (Sorry, I know this is Brian's preferred communication - We don't have one)  
+
+---
+
+**P.S.** If you’re not ready to chat but want to avoid DIY disasters, grab our free **[“5 Signs Your Website Is Costing You Clients”](https://betterthanbrian.com/guide)** guide.

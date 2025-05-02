@@ -1,12 +1,12 @@
 #Please use the main menu items under the "text"
 
-- text: Home
-  url: /
   # submenu:
   # - text: Home 2
   #   url: /pages/index-2
   # - text: Home 3
   #   url: /pages/index-3
+- text: Contact
+  url: /contact
 - text: Wait - What? Who's Brian?
   url: /#Who
 - text: What do you do?
@@ -33,5 +33,3 @@
 #     url: /pages/contact
 #   - text: 404
 #     url: /pages/404
-- text: Contact
-  url: /contact

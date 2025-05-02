@@ -25,6 +25,12 @@ layout: default
                                         <a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
                                     {% endif %}
                                 {% endfor %}
+                                <!-- 
+                                    // NOT RENDERING RIGHT IN PROD
+                                    <div class="blog-post-tag">
+                                
+                                 {{page | tags | capitalize}}
+                                </div> -->
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                {% include social_share.html %}

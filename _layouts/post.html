@@ -25,23 +25,12 @@ layout: default
                                         <a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
                                     {% endif %}
                                 {% endfor %}
-                                <!-- 
-                                    // NOT RENDERING RIGHT IN PROD
-                                    <div class="blog-post-tag">
-                                
-                                 {{page | tags | capitalize}}
-                                </div> -->
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6">
                                {% include social_share.html %}
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="post-comments mt-50">
-                        <div class="latest-comments">
-                           {% include disqus_comments.html %}
-                        </div>
-                    </div> -->
                 </div>
             </div>
             <div class="col-lg-4 sidebar-blog right-side">

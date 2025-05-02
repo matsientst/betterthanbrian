@@ -20,7 +20,7 @@ a.meanmenu-reveal {
 	position: relative;
 	padding: 0;
 	z-index: 99;
-	margin-top: 10px;
+	margin-top: 0px;
 }
 
 .mean-container a.meanmenu-reveal {
@@ -52,7 +52,6 @@ a.meanmenu-reveal {
 .mean-container .mean-nav {
 	float: left;
 	width: 100%;
-	background: #0c1923;
 	margin-top: 10px;
 }
 
@@ -72,10 +71,9 @@ a.meanmenu-reveal {
 	display: block;
 	float: left;
 	width: 90%;
-	padding: 10px 5%;
+	padding: 5px 5%;
 	margin: 0;
 	text-align: left;
-	color: #fff;
 	border-top: 1px solid rgba(255,255,255,0.5);
 	text-decoration: none;
 	text-transform: uppercase;
@@ -95,7 +93,7 @@ a.meanmenu-reveal {
 
 .mean-container .mean-nav ul li.mean-last a {
 	border-bottom: none;
-	margin-bottom: 0;
+	margin-bottom: 10px;
 }
 
 .mean-container .mean-nav ul li li li a {

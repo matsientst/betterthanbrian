@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wix vs. Custom Web Design: Why ‘Easy’ Isn’t Always Better"
-date: 2025-04-29 09:00:00 -0500
+date: 2025-04-30 09:00:00 -0500
 tags: web-design wix custom-development
 categories: [web-design]
 authors: better_than_brian

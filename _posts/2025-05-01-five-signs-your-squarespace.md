@@ -7,6 +7,7 @@ categories: [web-design,]
 authors: better_than_brian
 post_image: "/assets/img/bg/frustrated-woman.png"
 header_image: "/assets/img/bg/frustrated-woman.jpg"
+published: true
 ---
 
 <h4>Your website shouldn't be a compromise</h4>

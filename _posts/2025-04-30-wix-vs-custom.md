@@ -6,6 +6,7 @@ tags: web-design wix custom-development
 categories: [web-design]
 authors: better_than_brian
 post_image: "/assets/img/bg/dont-just-exist.png"
+published: true
 ---
 
 <h4>The DIY Illusion: When "Easy" Means "Embarrassing"</h4>

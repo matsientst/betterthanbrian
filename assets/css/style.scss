@@ -1499,6 +1499,23 @@ label {
 }
 
 /* 14. Blog */
+.blog-bg {
+	height: 410px;
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+}
+.blog-bg::before {
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: .3;
+}
+.blog-bg h2 {
+	color:#FFF;
+}
 .blog-wrapper {
 	background: #fff;
 	overflow: hidden;

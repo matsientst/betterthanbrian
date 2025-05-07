@@ -1,24 +1,100 @@
-<form action="https://formspree.io/f/xnqwkwvk" method="POST">
-  <div class="form-group">
-    <label for="name">Name</label>
-    <input type="text" name="name" class="form-control" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="email">Email</label>
-    <input type="email" name="email" class="form-control" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="message">Message</label>
-    <textarea name="message" class="form-control" rows="5" required></textarea>
-  </div>
-  
-  <!-- Anti-spam trap (optional) -->
-  <input type="text" name="_gotcha" style="display:none">
-  
-  <!-- Custom redirect after submission (optional) -->
-  <input type="hidden" name="_next" value="https://betterthanbrian.com/thank-you/">
-  
-  <button type="submit" class="btn btn-primary">🚀 Send This to Humans (Not Bots)</button>
-</form>
+<div id="form-container">
+  <form id="contact-form" action="https://formspree.io/f/xnqwkwvk" method="POST">
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" name="name" id="name" class="form-control" required>
+    </div>
+    
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="email" name="email" id="email" class="form-control" required>
+    </div>
+    
+    <div class="form-group">
+      <label for="message">Message</label>
+      <textarea name="message" id="message" class="form-control" rows="5" required></textarea>
+    </div>
+    
+    <!-- Anti-spam trap -->
+    <input type="text" name="_gotcha" style="display:none">
+    
+    <!-- Remove the redirect since we're handling submission with JavaScript -->
+    <!-- <input type="hidden" name="_next" value="https://betterthanbrian.com/thank-you/"> -->
+    
+    <button type="submit" class="btn btn-primary">🚀 Send This to Humans (Not Bots)</button>
+  </form>
+</div>
+
+<!-- Form success and error messages -->
+<div id="form-success" style="display:none; color:green; font-weight:bold; margin-top:20px; padding: 15px; background-color: #e8f5e9; border-radius: 4px;">
+  <p>✅ Message sent successfully! We'll get back to you soon.</p>
+</div>
+
+<div id="form-error" style="display:none; color:#d32f2f; font-weight:bold; margin-top:20px; padding: 15px; background-color: #ffebee; border-radius: 4px;">
+  <p>❌ Oops! There was a problem sending your message. Please try again.</p>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var form = document.getElementById('contact-form');
+    var formContainer = document.getElementById('form-container');
+    var formSuccess = document.getElementById('form-success');
+    var formError = document.getElementById('form-error');
+    
+    if (form) {
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        var formData = new FormData(form);
+        
+        fetch('https://formspree.io/f/xnqwkwvk', {
+          method: 'POST',
+          body: formData,
+          headers: {
+            'Accept': 'application/json'
+          }
+        })
+        .then(function(response) {
+          if (response.ok) {
+            // Success - show success message and hide form
+            form.reset();
+            formContainer.style.display = 'none';
+            formSuccess.style.display = 'block';
+            
+            // Optional: Scroll to success message
+            formSuccess.scrollIntoView({ behavior: 'smooth' });
+            
+            // Optional: Show form again after some time (e.g., 30 seconds)
+            setTimeout(function() {
+              formContainer.style.display = 'block';
+              formSuccess.style.display = 'none';
+            }, 30000);
+          } else {
+            // Error
+            response.json().then(function(data) {
+              if (data && data.error) {
+                formError.innerHTML = '<p>❌ ' + data.error + '</p>';
+              }
+              formError.style.display = 'block';
+              
+              // Hide error message after 5 seconds
+              setTimeout(function() {
+                formError.style.display = 'none';
+              }, 5000);
+            });
+          }
+        })
+        .catch(function(error) {
+          // Network error
+          formError.innerHTML = '<p>❌ Network error, please try again later.</p>';
+          formError.style.display = 'block';
+          
+          // Hide error message after 5 seconds
+          setTimeout(function() {
+            formError.style.display = 'none';
+          }, 5000);
+        });
+      });
+    }
+  });
+</script>

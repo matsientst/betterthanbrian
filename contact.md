@@ -30,7 +30,7 @@ We’re not a faceless corporation. We’re not your nephew Brian. We’re a sma
 
 ### **Other Ways to Get Our Attention**
 - **Email:** [info@betterthanbrian.com](mailto:info@betterthanbrian.com)  
-- **LinkedIn:** [Connect](https://linkedin.com/company/better-than-brian)  
+- **LinkedIn:** [Connect With Us](https://linkedin.com/company/better-than-brian)  
 - **Fax:** (Sorry, I know this is Brian's preferred communication - We don't have one)  
 
 ---

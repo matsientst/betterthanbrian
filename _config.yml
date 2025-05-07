@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://betterthanbrian.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 twitter_url: https://twitter.com/better_than_bri
 linkedin_url: https://www.linkedin.com/company/28590312/admin/
+timezone: America/Denver 
 
 # Google Analytics
 google_analytics: G-P39V41QRY7

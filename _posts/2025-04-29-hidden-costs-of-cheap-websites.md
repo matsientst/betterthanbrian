@@ -6,6 +6,7 @@ tags: web-design business strategy cost-of-cheap
 categories: [web-design]
 authors: better_than_brian
 post_image: "/assets/img/bg/sale.png"
+published: true
 ---
 
 <h4>"I Saved Money!"... And Other Lies We Tell Ourselves</h4>

@@ -1,7 +1,7 @@
 title: "Better than brian is a web consulting service. Let us help you get your web presence dialed in. Don't let Brian near your code."
 email: "info@betterthanbrian.com"
 description: >- # this means to ignore newlines until "baseurl:"
- Better than brian is a web consulting service. Let us help you get your web presence dialed in. Don\'t let Brian near your code.
+ Better than brian is a web consulting service. Let us help you get your web presence dialed in. Don't let Brian near your code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://betterthanbrian.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 twitter_url: https://twitter.com/better_than_bri

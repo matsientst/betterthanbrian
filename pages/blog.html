@@ -10,7 +10,7 @@ post_image: "/assets/img/bg/bus.png"
 <div class="basic-blog-area gray-bg pt-100 pb-100">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 blog-post-items">
+            <div class="col-lg-12 blog-post-items">
               {% for post in paginator.posts %}
                 <div class="blog-wrapper mb-40">
                     <div class="blog-thumb">
@@ -35,9 +35,6 @@ post_image: "/assets/img/bg/bus.png"
                 </div>
               {% endfor %}
              {% include pagination.html %}
-            </div>
-            <div class="col-lg-4 sm-mt sidebar-blog right-side">
-             {% include sidebar.html %}
             </div>
         </div>
     </div>
